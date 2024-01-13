@@ -1,0 +1,14 @@
+C:\Users\DEICIDA\source\repos\pROJEuNKNOWN\bin\Debug\net6.0\pROJEuNKNOWN.exe
+C:\Users\DEICIDA\source\repos\pROJEuNKNOWN\bin\Debug\net6.0\pROJEuNKNOWN.deps.json
+C:\Users\DEICIDA\source\repos\pROJEuNKNOWN\bin\Debug\net6.0\pROJEuNKNOWN.runtimeconfig.json
+C:\Users\DEICIDA\source\repos\pROJEuNKNOWN\bin\Debug\net6.0\pROJEuNKNOWN.dll
+C:\Users\DEICIDA\source\repos\pROJEuNKNOWN\bin\Debug\net6.0\pROJEuNKNOWN.pdb
+C:\Users\DEICIDA\source\repos\pROJEuNKNOWN\obj\Debug\net6.0\pROJEuNKNOWN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEICIDA\source\repos\pROJEuNKNOWN\obj\Debug\net6.0\pROJEuNKNOWN.AssemblyInfoInputs.cache
+C:\Users\DEICIDA\source\repos\pROJEuNKNOWN\obj\Debug\net6.0\pROJEuNKNOWN.AssemblyInfo.cs
+C:\Users\DEICIDA\source\repos\pROJEuNKNOWN\obj\Debug\net6.0\pROJEuNKNOWN.csproj.CoreCompileInputs.cache
+C:\Users\DEICIDA\source\repos\pROJEuNKNOWN\obj\Debug\net6.0\pROJEuNKNOWN.dll
+C:\Users\DEICIDA\source\repos\pROJEuNKNOWN\obj\Debug\net6.0\refint\pROJEuNKNOWN.dll
+C:\Users\DEICIDA\source\repos\pROJEuNKNOWN\obj\Debug\net6.0\pROJEuNKNOWN.pdb
+C:\Users\DEICIDA\source\repos\pROJEuNKNOWN\obj\Debug\net6.0\pROJEuNKNOWN.genruntimeconfig.cache
+C:\Users\DEICIDA\source\repos\pROJEuNKNOWN\obj\Debug\net6.0\ref\pROJEuNKNOWN.dll
